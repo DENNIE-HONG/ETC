@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ETC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="etc_receivables">ETC收款</string>
+    <string name="etc_pay">ETC付款</string>
+    <string name="etc_bind">ETC绑定</string>
+    <string name="statement">结算单</string>
+    <string name="order_qry">订单查询</string>
+    <string name="bank_bind">银行绑定</string>
+
+</resources>

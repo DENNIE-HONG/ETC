@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/etc_receivables" android:title="@string/etc_receivables"></item>
+    <item android:id="@+id/etc_pay" android:title="@string/etc_pay"></item>
+    <item android:id="@+id/etc_bind" android:title="@string/etc_bind"></item>
+    <item android:id="@+id/statement" android:title="@string/statement"></item>
+    <item android:id="@+id/order_qry" android:title="@string/order_qry"></item>
+    <item android:id="@+id/bank_bind" android:title="@string/bank_bind"></item>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
